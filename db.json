@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "title": "title",
+      "description": "description",
+      "id": 2
+    },
+    {
+      "title": "new titlee1",
+      "description": "new Descriptionn1",
+      "id": 3
+    },
+    {
+      "title": "suman",
+      "description": "verma",
+      "id": 4
+    },
+    {
+      "title": "ravi",
+      "description": "verma",
+      "id": 5
+    },
+    {
+      "title": "dddddddd",
+      "description": "eeeeeeeeeeee",
+      "id": 6
+    },
+    {
+      "title": "shirt",
+      "description": "shirtttt",
+      "id": 9
+    },
+    {
+      "title": "pranav",
+      "description": "verma",
+      "id": 10
+    },
+    {
+      "title": "abhishek",
+      "description": "verma",
+      "id": 11
+    }
+  ],
+  "comments": [
+   
+    {
+      "comment": "jhbdjhd",
+      "postId": "9",
+      "id": 2
+    }
+  ]
+}
